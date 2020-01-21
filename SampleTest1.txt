@@ -1,3 +1,3 @@
 This is first code file.
 
-Developer is developing this project. Test 2.
+Developer is developing this project. Test 2. Dodatkowy tekst dodany recznie.
